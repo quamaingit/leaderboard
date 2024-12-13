@@ -1,0 +1,23 @@
+.searchContainer {
+  padding: 16px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.searchInput {
+  margin-bottom: 8px;
+  background-color: #fff;
+  border-radius: 4px;
+}
+
+.tableHeader {
+  background-color: #e0e0e0;
+  font-weight: bold;
+  color: #333;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.noDataRow {
+  padding: 20px;
+  color: #888;
+}
